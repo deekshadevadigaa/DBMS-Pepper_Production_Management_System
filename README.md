@@ -9,7 +9,7 @@ Features :
 - Billing System: Automate billing and invoicing processes for sales and services.
 
 Technologies Used :
-- Frontend: Java
+- Frontend: Java , IDE : Netbeans
 - Backend: Oracle Database 10g Express Edition
 
 Working : 
